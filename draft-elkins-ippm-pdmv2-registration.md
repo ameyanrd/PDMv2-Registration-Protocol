@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 0
-area: Transport Area
-workgroup: IPPM
+area: "Transport"
+workgroup: "IP Performance Measurement"
 keyword:
  - extension headers
  - IPv6
  - PDMv2
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "IP Performance Measurement"
+  type: "Working Group"
+  mail: "ippm@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/ippm/"
+  github: "ameyanrd/PDMv2-Registration-Protocol"
+  latest: "https://ameyanrd.github.io/PDMv2-Registration-Protocol/draft-elkins-ippm-pdmv2-registration.html"
 
 author:
  -
